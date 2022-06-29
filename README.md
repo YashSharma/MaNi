@@ -8,7 +8,7 @@ Implementation of MaNi: Maximizing Mutual Information for Nuclei Cross-Domain Un
 - Demonstrated our approach using different architectures and for over 20 cancer-type domain shifts establishing that the inclusion of the MI loss leads to competitive gain over recently proposed methods. 
     
 <p align="center">
-    <img src="docs/mani.pdf" width="60%"/>
+    <img src="docs/mani.png" width="60%"/>
 </p>    
     
 ## Abstract
