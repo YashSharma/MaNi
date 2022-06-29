@@ -18,7 +18,8 @@ In this work, we propose a mutual information (MI) based unsupervised domain ada
 ## How to Use
 
 - Update load_data.py to include file paths. 
-- Use orchestrator.py for running the code. Use proto_w tag for including and adjusting the MI loss weight and domain_w tag for including and adjusting gradient reversal weight.
+- Use orchestrator.py for running the code. 
+- Use proto_w tag for including and adjusting the MI loss weight and domain_w tag for including and adjusting gradient reversal weight.
 
 ## Reference
 
