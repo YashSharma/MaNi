@@ -23,4 +23,19 @@ In this work, we propose a mutual information (MI) based unsupervised domain ada
 
 ## Reference
 
-The paper has been provisionally accepted at MICCAI2022. The full pdf will be soon included.
+The paper has been provisionally accepted at MICCAI2022. If you found our work or code helpful, please consider citing our paper:
+
+```bash
+@misc{https://doi.org/10.48550/arxiv.2206.14437,
+  doi = {10.48550/ARXIV.2206.14437},  
+  url = {https://arxiv.org/abs/2206.14437},  
+  author = {Sharma, Yash and Syed, Sana and Brown, Donald E.},  
+  keywords = {Computer Vision and Pattern Recognition (cs.CV), FOS: Computer and information sciences, FOS: Computer and information sciences},  
+  title = {MaNi: Maximizing Mutual Information for Nuclei Cross-Domain Unsupervised Segmentation},
+  publisher = {arXiv},  
+  year = {2022},  
+  copyright = {Creative Commons Attribution 4.0 International}
+}
+
+Paper Link: https://arxiv.org/abs/2206.14437
+```
