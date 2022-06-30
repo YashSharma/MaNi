@@ -36,6 +36,6 @@ The paper has been provisionally accepted at MICCAI2022. If you found our work o
   year = {2022},  
   copyright = {Creative Commons Attribution 4.0 International}
 }
+```
 
 Paper Link: https://arxiv.org/abs/2206.14437
-```
